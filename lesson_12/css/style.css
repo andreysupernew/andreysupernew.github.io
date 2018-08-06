@@ -1,0 +1,63 @@
+body{
+font-family: 'Tahoma';
+color: 333333;
+}
+
+.head_text{
+	margin: 60px auto;
+	line-height: 1.5;
+	font-size: 24px;
+}
+
+.head_text strong{
+	text-transform: uppercase;
+	font-weight: 900;
+
+}
+
+.form{
+	border: 5px solid #007bff;
+	padding: 20px 30px;
+}
+.form p{
+	font-size: 20px;
+	margin: 15px auto 25px;
+}
+.form input{
+margin: 5px auto;
+}
+.form button{
+	margin: 27px auto 4px;
+}
+
+.section{
+	margin: 100px auto 60px;
+}
+.text2{
+	font-size: 24px;
+	font-weight: 900;
+}
+.feature{
+	margin: 60px auto;	
+}
+.feature-box p{
+	margin-top: 10px;
+	font-weight: 900;
+	width: 160px;
+	margin: 10px auto;
+}
+
+.text_footer{
+	font-weight: 900;
+	font-size: 24px;
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+
+.photo{
+	margin: 10px;
+}
+
+.video{
+	margin-bottom: 60px;
+}
